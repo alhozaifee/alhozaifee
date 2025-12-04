@@ -13,10 +13,10 @@
 
 ### 🧑‍💼 About Me
 
-🎓 Pursuing **MSc in Data Science & Business Analytics** at Asia Pacific University (Business Intelligence Pathway)  
+🎓 Graduated **MSc in Data Science & Business Analytics** at Asia Pacific University (Business Intelligence Pathway)  
 💡 Passionate about data-driven decision-making and business problem solving  
 📊 Interested in data visualization, customer analytics, and CRM systems  
-📍 Based in **Kuala Lumpur, Malaysia**
+📍 Based in **Dhaka, Bangladesh**
 
 ---
 
