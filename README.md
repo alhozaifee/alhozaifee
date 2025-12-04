@@ -33,7 +33,7 @@
 
 ### 📂 Featured Project
 
-#### 🔍 Customer Churn Prediction with Explainable AI (Ongoing)
+#### 🔍 Customer Churn Prediction with Explainable AI
 > Building an interpretable machine learning model using **XGBoost** & **SHAP** to predict customer churn in subscription-based businesses.
 
 ---
